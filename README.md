@@ -1,5 +1,7 @@
-# grant-template
-Template for Grant Proposals
+# Shaped Opal
+Improving the Opalescent Database protocola and Typescript implementation
+
+Builds on [Rough Opal](https://github.com/tabcat/rough-opal)
 
 ---
 
@@ -10,8 +12,8 @@ Template for Grant Proposals
 |  |  |
 | --- | ---: |
 | APPLICATION: | [APPLICATION.md](./APPLICATION.md) |
-| STATUS:  | ACCEPTED |
-| SUBMITTED: | MONTH DD YYYY |
+| STATUS:  | PRE-SUBMISSION |
+| SUBMITTED: | `N/A` |
 | ISSUE: | <link to proposal submittion> |
 | DURATION: | MONTH 2022 - MONTH 2022 |
 | PROGRAM: | <grant program name> |
